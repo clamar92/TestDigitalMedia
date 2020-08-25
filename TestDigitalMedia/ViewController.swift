@@ -1,10 +1,7 @@
 //
 //  ViewController.swift
 //  ARKitHorizontalPlaneDemo
-//
-//  Created by Jayven Nhan on 11/14/17.
-//  Copyright © 2017 Jayven Nhan. All rights reserved.
-//
+
 import UIKit
 import ARKit
 
